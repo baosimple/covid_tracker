@@ -2,4 +2,4 @@ COVID-19 Tracker that I made with the help of tutorials to learn React. Utilizes
 
 Use it here: https://goofy-mahavira-49b323.netlify.app/
 
-![Alt text](https://this-or-that.s3.amazonaws.com/this-or-that.png)
+![Alt text](https://this-or-that.s3.amazonaws.com/covidTracker.png)
